@@ -2,3 +2,4 @@ baseURL = 'https://athulmuralidhar.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'risotto'
+defaultContentLanguage = "en"
