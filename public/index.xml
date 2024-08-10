@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
+    <link>https://athulmuralidhar.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Aug 2024 23:47:50 +0200</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://athulmuralidhar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Work</title>
-      <link>https://example.org/work/</link>
+      <link>https://athulmuralidhar.github.io/work/</link>
       <pubDate>Sat, 10 Aug 2024 23:47:50 +0200</pubDate>
-      <guid>https://example.org/work/</guid>
+      <guid>https://athulmuralidhar.github.io/work/</guid>
       <description>Current work Previous work Pages: Karma, About</description>
     </item>
     <item>
       <title>Karma is a B*tch</title>
-      <link>https://example.org/karma/</link>
+      <link>https://athulmuralidhar.github.io/karma/</link>
       <pubDate>Sat, 10 Aug 2024 17:29:28 +0200</pubDate>
-      <guid>https://example.org/karma/</guid>
+      <guid>https://athulmuralidhar.github.io/karma/</guid>
       <description>Introduction As the famous philosopher Justin Timberlake once said:&#xA;What Goes Around&amp;hellip; Comes Around&#xA;Perhaps, he is right. There might even be something as ephemeral as karma in this ethereal world. Anyway, my point is that life itself has a way of getting back to you. Whatever you think you&amp;rsquo;ve passed, whatever you&amp;rsquo;ve thought you&amp;rsquo;ve achieved, whatever you think you&amp;rsquo;ve let go&amp;hellip; has a way of returning to you at a later point in life.</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://example.org/about/</link>
+      <link>https://athulmuralidhar.github.io/about/</link>
       <pubDate>Sat, 10 Aug 2024 00:13:20 +0200</pubDate>
-      <guid>https://example.org/about/</guid>
+      <guid>https://athulmuralidhar.github.io/about/</guid>
       <description>Introduction As with all things these days I posed a question to Perplexity AI about myself:&#xA;who is Athul Muralidhar ?&#xA;this is what came out:&#xA;Athul Muralidhar Athul Muralidhar is a multidisciplinary software developer and physicist currently based in Amsterdam, Netherlands. He has a diverse background in software development, physics, and entrepreneurship.&#xA;Professional Background Founder of Antai-nl: Athul founded Antai-nl, a nonprofit organization focused on adversarial attacks to challenge machine learning systems.</description>
     </item>
   </channel>
