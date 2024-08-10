@@ -40,4 +40,4 @@ Come find out for yourself:
 [LinkedIn](https://www.linkedin.com/in/athul-muralidhar-8756a694/), [X](https://x.com/AthulMul),
 [Github](https://github.com/AthulMuralidhar), [Calendly](https://calendly.com/athul-mul/15min)
 
-**Pages**: [Karma]({{< ref "karma.md" >}})
+**Pages**: [Karma]({{< ref "karma.md" >}}), [Work]({{< ref "work.md" >}})
