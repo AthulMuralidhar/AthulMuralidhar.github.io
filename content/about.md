@@ -36,3 +36,8 @@ Overall, Athul Muralidhar is a well-rounded professional with a strong foundatio
 
 [Whatever this is](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)) I will let [you](https://whatismyipaddress.com/) decide.
 
+Come find out for yourself:
+[LinkedIn](https://www.linkedin.com/in/athul-muralidhar-8756a694/), [X](https://x.com/AthulMul),
+[Github](https://github.com/AthulMuralidhar), [Calendly](https://calendly.com/athul-mul/15min)
+
+**Pages**: [Karma]({{< ref "karma.md" >}})
