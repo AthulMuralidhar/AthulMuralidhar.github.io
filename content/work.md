@@ -5,10 +5,11 @@ draft = false
 +++
 
 ## Current work
-- I am on a sabbatical, trying to get into the embedded systems - i am doing  a couple of courses on udemy - focussing on cortex m series of micro processors
 
+- I am on a sabbatical, trying to get into the embedded systems. - I am doing  a couple of courses on Udemy, focusing on the Cortex M series of microprocessors
 
 ## Previous work in sotware development
+
 - worked at print.com
 - worked at keana
 - worked at cubic eyes
@@ -17,6 +18,7 @@ draft = false
 - worked at mobpro
 
 ## Side projects
+
 - snake game
 - protobuf installer
 - nights watch
