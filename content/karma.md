@@ -72,3 +72,5 @@ Maybe we should all be sharks in the sea of information and belief systems. Alwa
 
 
 Just for the record, I don't listen to Justin Timberlake anymore. 
+
+**Pages**: [Work]({{< ref "work.md" >}}), [About]({{< ref "about.md" >}}), [Wakatime]({{< ref "wakatime.md" >}})
