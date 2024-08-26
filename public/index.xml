@@ -6,14 +6,21 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Aug 2024 23:47:50 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 19:26:34 +0530</lastBuildDate>
     <atom:link href="https://athulmuralidhar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wakatime</title>
+      <link>https://athulmuralidhar.github.io/wakatime/</link>
+      <pubDate>Mon, 26 Aug 2024 19:26:34 +0530</pubDate>
+      <guid>https://athulmuralidhar.github.io/wakatime/</guid>
+      <description>Pages: Karma, About, Work</description>
+    </item>
     <item>
       <title>Work</title>
       <link>https://athulmuralidhar.github.io/work/</link>
       <pubDate>Sat, 10 Aug 2024 23:47:50 +0200</pubDate>
       <guid>https://athulmuralidhar.github.io/work/</guid>
-      <description>Current work Previous work Pages: Karma, About</description>
+      <description>Current work I am on a sabbatical, trying to get into the embedded systems. - I am doing a couple of courses on Udemy, focusing on the Cortex M series of microprocessors Previous work in sotware development worked at print.com worked at keana worked at cubic eyes worked at newu worked at wavescale worked at mobpro Side projects snake game protobuf installer nights watch space craft envi stoic Pages: Karma, About, Wakatime</description>
     </item>
     <item>
       <title>Karma is a B*tch</title>

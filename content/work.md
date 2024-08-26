@@ -27,4 +27,4 @@ draft = false
 - stoic
 
 
-**Pages**: [Karma]({{< ref "karma.md" >}}), [About]({{< ref "about.md" >}})
+**Pages**: [Karma]({{< ref "karma.md" >}}), [About]({{< ref "about.md" >}}), [Wakatime]({{< ref "wakatime.md" >}})
