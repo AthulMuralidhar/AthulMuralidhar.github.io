@@ -28,4 +28,4 @@ draft = false
 
 ![Categories](https://wakatime.com/share/@athulmuralidhar/9238807d-4ce3-46a3-892e-8999dbdadb77.svg)
 
-**Pages**: [Karma]({{< ref "karma.md" >}}), [About]({{< ref "about.md" >}}), [Work]({{< ref "work.md" >}})
+**Pages**: [Karma]({{< ref "karma.md" >}}), [About]({{< ref "about.md" >}}), [Work]({{< ref "work.md" >}}), [Code]({{< ref "code-of-conduct.md" >}})
