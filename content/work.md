@@ -27,4 +27,4 @@ draft = false
 - stoic
 
 
-**Pages**: [Karma]({{< ref "karma.md" >}}), [About]({{< ref "about.md" >}}), [Wakatime]({{< ref "wakatime.md" >}})
+**Pages**: [Karma]({{< ref "karma.md" >}}), [About]({{< ref "about.md" >}}), [Wakatime]({{< ref "wakatime.md" >}}), [Code]({{< ref "code-of-conduct.md" >}})
